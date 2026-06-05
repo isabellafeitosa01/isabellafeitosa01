@@ -36,7 +36,7 @@ Sou Desenvolvedora Front-End em formação, apaixonada por criar interfaces mode
 
 </div>
 
----
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -52,8 +52,11 @@ Sou Desenvolvedora Front-End em formação, apaixonada por criar interfaces mode
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
+---
+
 <div align="center">
 <img src="https://raw.githubusercontent.com/isabellafeitosa01/isabellafeitosa01.md/output/snake.svg" alt="Snake animation" />
+</div>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=a960ff&section=footer"/>
