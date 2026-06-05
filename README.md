@@ -56,10 +56,12 @@ Sou Desenvolvedora Front-End em formação, apaixonada por criar interfaces mode
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/isabellafeitosa01/isabellafeitosa01/output/snake.svg" alt="Snake animation" />
-</div>
+</div>  
 
 <div align="center">
+  
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=a960ff&section=footer"/>
+
 </div>
 
 
