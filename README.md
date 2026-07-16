@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=a960ff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=FD50BC"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Iosevka+Charon&size=30&pause=1000&color=FD50BC&width=210&lines=Isabella+Feitosa)](https://git.io/typing-svg)
 
