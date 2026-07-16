@@ -57,6 +57,6 @@ Sou Desenvolvedora Front-End em formação, apaixonada por criar interfaces mode
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=a960ff&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=FD50BC&section=footer"/>
 </div>
 
