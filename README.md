@@ -12,6 +12,7 @@ Sou Desenvolvedora Front-End em formação, apaixonada por criar interfaces mode
 • CSS
 • JavaScript
 • React
+• TypeScript 
 • Git & GitHub
 
 📌 Este perfil reúne meus projetos, desafios e aprendizados durante minha jornada na programação.<br>
@@ -50,7 +51,7 @@ Sou Desenvolvedora Front-End em formação, apaixonada por criar interfaces mode
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typeScript/typeScript-original.svg" height="40" alt="typeScript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/TypeScript/TypeScript-original.svg" height="40" alt="typeScript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
