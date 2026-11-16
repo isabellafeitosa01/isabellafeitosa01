@@ -54,11 +54,9 @@ Sou Desenvolvedora Front-End em formação, apaixonada por criar interfaces mode
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 height= "40" alt="TypeScript logo" />
  <img width="12"/>
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 height= "40" alt="tailwindcss logo" />
  <img width="12"/>      
- 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
