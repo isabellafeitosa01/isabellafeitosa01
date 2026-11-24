@@ -10,6 +10,7 @@ Sou Desenvolvedora Front-End em formação, apaixonada por criar interfaces mode
 💖 Atualmente estudo e desenvolvo projetos utilizando:
 • HTML
 • CSS
+• Tailwind
 • JavaScript
 • React
 • TypeScript 
